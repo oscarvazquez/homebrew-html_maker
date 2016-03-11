@@ -1,8 +1,8 @@
 Simple command line html creator
 
 setup 
-brew tap oscarvazquez/homebrew-html_maker
-brew install html_maker
+brew tap oscarvazquez/homebrew-html_maker \n
+brew install --HEAD html_maker
 
 to run 
 html 
